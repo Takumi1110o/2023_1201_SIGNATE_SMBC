@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+category_encoders
+seaborn
+matplotlib
+pyyaml
+lightgbm
+tabulate
+imbalanced-learn
+geocoder
+optuna
