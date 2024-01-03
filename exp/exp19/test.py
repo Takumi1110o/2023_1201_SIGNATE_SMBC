@@ -9,7 +9,6 @@ import os
 # train = pd.read_csv("..exp/data/train.csv")
 # train.head()
 
-# 現在のスクリプトファイルのディレクトリを取得
 current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.abspath(os.path.join(current_dir, os.pardir))
 file_path = os.path.join(parent_dir, 'data')
